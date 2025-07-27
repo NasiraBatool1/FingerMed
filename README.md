@@ -1,6 +1,6 @@
-# p
+# FingerMed
 
-A new Flutter project.
+A new Flutter project (Blood Bank App),free available for eveyone.
 
 ## Getting Started
 
