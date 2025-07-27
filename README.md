@@ -24,10 +24,15 @@ A new Flutter project (Blood Bank App),free available for eveyone.
 <img width="418" height="845" alt="10 Home Screen" src="https://github.com/user-attachments/assets/4bc24175-ca84-45e8-8397-7e24d4e3a484" />
 <h1></h1>
 <img width="417" height="848" alt="11 Inbox Screen" src="https://github.com/user-attachments/assets/dd0d91f5-cbd0-4062-8656-975c85fc2c00" />
-<h1></h1>
+<br>
 <img width="405" height="862" alt="12 Chat Screen" src="https://github.com/user-attachments/assets/9a674b9b-a155-40c8-a058-57bb2f6db0e5" />
+<br>
 <img width="405" height="853" alt="13 Profile Screen" src="https://github.com/user-attachments/assets/cf0324bb-7c61-4497-893d-e1dae07cc570" />
+<br>
 <img width="398" height="851" alt="14 Blood Post Screen" src="https://github.com/user-attachments/assets/93f824e0-f6b7-4d33-bafe-76d246435757" />
+<br>
 <img width="415" height="857" alt="15 Edit Post" src="https://github.com/user-attachments/assets/1150dada-badf-4687-9091-09e7cfd6ca87" />
+<br>
 <img width="412" height="861" alt="16 Search Donor Screen" src="https://github.com/user-attachments/assets/98fc18b5-9c47-4eec-a486-aeeeecc34bab" />
+<br>
 <img width="412" height="853" alt="17 Blood Type Detection Screen" src="https://github.com/user-attachments/assets/3280c8ab-ac97-46ab-96e6-53bc3f0fdbb7" />
